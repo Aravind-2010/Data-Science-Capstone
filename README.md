@@ -1,5 +1,5 @@
-# NewTestRepo
+# Data Science Capstone Repository
 
-## Editing The File
+## Lab Notebooks and program files
 
-It is a markdown file in this repository .
+This repository contains all the lab exercise notebooks and program files from the 'Data Science Capstone' course, a part of 'IBM Data Science Professional Certificate' in Coursera.
